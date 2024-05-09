@@ -34,7 +34,7 @@
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
-  --user-modal-attachment: fixed;
+  --user-modal-attachment: static;
   --user-modal-brightness: 100%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
